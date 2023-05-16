@@ -1,2 +1,2 @@
 # AzurePGPEncrypt
-owned by Jay wu
+owner  Jay wu
